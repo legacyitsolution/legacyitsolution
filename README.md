@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there HUMANKIND 👋 I SEE YOU 🤔 AM KIOKO JNR FULLSTACK DEVELOPER
 
-<!--
-**legacyitsolution/legacyitsolution** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IF("YOU DECIDE TO BE A LEANER" === "PASSIONATE IN WHAT YOUR ARE DOING")
+{
 
-Here are some ideas to get you started:
+RETURN APP.USE(EXPRESS("GREAT SUCCESS IN WHAT YOU ARE DOING AND MORE EXPERIENCE GAIN🌱 MORE PROJECT CAPABAILITY"));
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+}ELSE{
+
+RETURN APP.USE(EXPRESS("FAILURE⚡"));
+
+}
+
+BELOW ARE COOL STUFF HAVE BEING WORKING ON 📫
