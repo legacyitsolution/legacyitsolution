@@ -1,5 +1,6 @@
-### Hi there HUMANKIND 👋 I SEE YOU 🤔 AM KIOKO JNR FULLSTACK DEVELOPER
+Hi, I'm Fred 🏾 👨‍💻 🦹‍♀️
+
 
 ###"Knowledge, like air, is vital to life. Like air, no one should be denied it⚡."
 
-BELOW ARE COOL STUFF HAVE BEING WORKING ON 📫
+I write some code here and there. 📫
